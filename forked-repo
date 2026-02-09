@@ -1,0 +1,14 @@
+curl https://api.github.com/repos/Schipkau-2026/mcino-Introduction-to-Git-and-GitHub
+
+{
+  "id": 1153671790,
+  "node_id": "R_kgDORMOibg",
+  "name": "mcino-Introduction-to-Git-and-GitHub",
+  "full_name": "Schipkau-2026/mcino-Introduction-to-Git-and-GitHub",
+  "private": false,
+  "fork": true,
+  "html_url": "https://github.com/Schipkau-2026/mcino-Introduction-to-Git-and-GitHub",
+  "parent": {
+    "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub"
+  }
+}
