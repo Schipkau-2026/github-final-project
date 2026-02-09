@@ -1,0 +1,11 @@
+git checkout main
+Already on 'main'
+Your branch is behind 'origin/main' by 1 commit, and can be fast-forwarded.
+  (use "git pull" to update your local branch)
+
+git merge bug-fix-typo
+Updating 13af262..ad95b0a
+Fast-forward
+ .github/workflows/close_pr.yml | 14 ++++++++++++++
+ 1 file changed, 14 insertions(+)
+ create mode 100644 .github/workflows/close_pr.yml
